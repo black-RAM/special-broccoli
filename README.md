@@ -1,2 +1,3 @@
-# gittery-memorial
-Template repository, setting up Typescript and SCSS, among other development environment scripts.
+# special-broccoli
+
+Template repository to configure Typescript, Tailwind CSS, Jest and Webpack.
